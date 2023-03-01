@@ -4,7 +4,7 @@ Boleta = "Seleccione su localidad"
 #Pagar el precio que corresponde a la localidad elejida 
 boleta_VIP = 500 
 
-if boleta_VIP == 400: 
+if boleta_VIP == 500: 
     print("Su compra en VIP fue exitosa")
 else:
     print("No se pudo realizar su compra")
@@ -29,4 +29,5 @@ if boleta_baja== 100:
     print("Su compra en L_baja fue exitosa")
 else:
     print("No se pudo realizar su compra") 
-       
+
+   
